@@ -1,1 +1,1 @@
-# version-control-course
+# Version Control with Git
