@@ -1,0 +1,2 @@
+This is me adding some text with the cat command
+by pressing ctrl+D i tell the cat command to finish
